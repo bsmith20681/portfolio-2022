@@ -11,6 +11,8 @@ module.exports = {
       },
       colors: {
         "custom-black": "#181818",
+        "custom-green": "#55E6A5",
+        "custom-dark-green": "#47C08A",
       },
     },
   },
